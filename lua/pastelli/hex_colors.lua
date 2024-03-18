@@ -1,8 +1,8 @@
 local M = {}
 
-M = {
-  red = "#FF0000",
-  green = "#00FF00",
+M.colors = {
+  "#FF0000",
+  "#00FF00",
 }
 
 return M
